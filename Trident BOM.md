@@ -76,7 +76,7 @@
 | Electronics          | Power socket with cord with light                   | Power socket with cord with light                   | /                        | 1   |
 | Electronics          | 60x60x20 Fan (24V)                                  | 60x60x20 Fan (24V)                                  | /                        | 3   |
 | Electronics          | Mean Well LRS-200-24 PSU                            | Mean Well LRS-200-24 PSU                            | Mean Well                | 1   |
-| Electronics          | Delixi Solid State Relay                            | Delixi Solid State Relay                            | Delixi                   | 1   |
+| Electronics          | Delixi SSR CDG1-1DA/10A DC control AC               | Delixi SSR CDG1-1DA/10A DC control AC               | Delixi                   | 1   |
 | Electronics          | DIN Rail Mount Bracket for G3A SSR                  | DIN Rail Mount Bracket for G3A SSR                  | /                        | 1   |
 | Electronics          | National Standard Power Cord 1.5m                   | National Standard Power Cord 1.5m                   | /                        | 1   |
 | Electronics          | RED Bowden Tube (m)                                 | RED Bowden Tube (m)                                 | /                        | 2   |
