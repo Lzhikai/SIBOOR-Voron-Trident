@@ -4,7 +4,7 @@
 ### If there has any changes, will update immediately here.
 ## VORON Trident BOM Revision 1.1
 
-| Category             | 300 models                                          | 350 models                                          | 品牌                       | Qty |
+| Category             | 300 models                                          | 350 models                                          | Make or model            | Qty |
 |----------------------|-----------------------------------------------------|-----------------------------------------------------|--------------------------|-----|
 | Additional           | Foam tape 3mm thick x 5m                            | Foam tape 3mm thick x 5m                            | 3M                       | 1   |
 | Additional           | Foam tape 1mm thick x 5m                            | Foam tape 1mm thick x 5m                            | 3M                       | 1   |
