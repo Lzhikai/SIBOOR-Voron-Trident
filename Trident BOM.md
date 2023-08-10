@@ -69,7 +69,7 @@
 | Electronics          | 40x40x20 Centrifugal Fan (24V)                      | 40x40x20 Centrifugal Fan (24V)                      | SIBOOR                   | 1   |
 | Electronics          | 40x40x10 Axial Fan (24V)                            | 40x40x10 Axial Fan (24V)                            | /                        | 1   |
 | Electronics          | Mini 12864 Display                                  | Mini 12864 Display                                  | FYS                      | 1   |
-| Electronics          | FYS spider 2.3                                      | FYS spider 2.3                                      | FYS                      | 1   |
+| Electronics          | FYS spider 3.0                                      | FYS spider 3.0                                      | FYS                      | 1   |
 | Electronics          | FYS TMC2209                                         | FYS TMC2209                                         | FYS                      | 6   |
 | Electronics          | Orange Pi pi3 lts                                   | Orange Pi pi3 lts                                   | XUNLONG                  | 1   |
 | Electronics          | pi supply line                                      | pi supply line                                      | /                        | 1   |
