@@ -56,7 +56,7 @@
 | Vibration Management | Rubber Foot                                         | Rubber Foot                                         | /                        | 4   |
 | Electronics          | NEMA17 Motor 17HS19-2004S                           | NEMA17 Motor 17HS19-2004S                           | OMC                      | 2   |
 | Electronics          | NEMA14 35mm CSE14HRA1L410A-01                       | NEMA14 35mm CSE14HRA1L410A-01                       | MOON’S                   | 1   |
-| Electronics          | NEMA17 TR8x8 300mm Linear Stepper                   | NEMA17 TR8x8 300mm Linear Stepper                   | SIBOOR                   | 3   |
+| Electronics          | NEMA17 TR8x4 300mm Linear Stepper                   | NEMA17 TR8x4 300mm Linear Stepper                   | SIBOOR                   | 3   |
 | Electronics          | Motor wire 0.5M                                     | Motor wire 0.5M                                     | /                        | 3   |
 | Electronics          | Omron TL-Q5MC2 - NPN                                | Omron TL-Q5MC2 - NPN                                | Omron                    | 1   |
 | Electronics          | Toolhead PCB                                        | Toolhead PCB                                        | /                        | 1   |
